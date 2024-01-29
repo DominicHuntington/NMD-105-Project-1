@@ -1,1 +1,2 @@
 # NMD-105-Project-1
+I have had no real issues on any of the parts of making these to talk about. I guess when it comes to doing a good gradient or change in values, particularily during an attempt to map x and y position to them in a side creation I felt that just making up numbers or equations to adjust them was fine but it could be nice to have a better understanding of the math to do it more reliably or smoothly. 
